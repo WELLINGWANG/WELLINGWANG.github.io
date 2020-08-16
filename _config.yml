@@ -1,8 +1,8 @@
 # Site settings
 title:       왕휘링|Welling Wang
 email:       996918570@qq.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Welling Wang
+description: "Welling Wang's Home Page."
 baseurl:     ""
 url:         "http://wellingwang.github.io"
 date_format: "%b %-d, %Y"
@@ -47,7 +47,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:  WELLINGWANG
+github_username:  WELLING WANG
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
