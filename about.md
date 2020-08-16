@@ -1,9 +1,11 @@
 ---
 layout: page
-title: So...
+title: AboutMe
 permalink: /about/
 tags: about
 ---
+
+So...
 
 ### What is on my mind?
 
