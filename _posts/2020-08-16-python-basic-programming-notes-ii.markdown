@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes For Python Chaper7-8"
+title:  "Notes of Python Chaper7-8"
 date:   2020-08-16 13:56:29 +0800
 categories: Python notes
 ---
