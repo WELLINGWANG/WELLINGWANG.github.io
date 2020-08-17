@@ -11,11 +11,11 @@ categories: Python notes
 
 #### Covers expressions, the most basic type of Python instruction, and how to use the Python interactive shell software to experiment with code.
 
-   ![image001](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image001.png)                            
+   ![image001](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image001.png)                            
 
 **The Integer, Floating-Point, and String Data Types**
 
- ![image002](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image002.png)
+ ![image002](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image002.png)
 
 **String Concatenation and Replication**
 
@@ -33,7 +33,7 @@ categories: Python notes
 
  \4. It is a Python convention to start your variables with a lowercase letter.
 
- ![image003](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image003.png)
+ ![image003](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image003.png)
 
 **Dissecting Your Program**
 
@@ -73,7 +73,7 @@ numbers, and strings) introduced in this chapter.
 
 (**THE DIFFERENCE BETWEEN THE == AND = OPERATORS)**
 
-![image004](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image004.png)                               
+![image004](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image004.png)                               
 
 **Boolean Operators**
 
@@ -111,7 +111,7 @@ a block of code called the *clause*.
 
 **if Statements**
 
- ![image005](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image005.png)
+ ![image005](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image005.png)
 
 **else Statements**
 
@@ -119,7 +119,7 @@ An if clause can optionally be followed by an else statement.
 
 **elif Statements**
 
- ![image006](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image006.png)
+ ![image006](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image006.png)
 
 **while Loop Statements**
 
@@ -137,13 +137,13 @@ continue statements are used inside loops. When the program execution reaches a 
 
 **You can use** **continue** **and** **break** **statements only inside** **while** **and** **for** **loops.** 
 
-![image007](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image007.png) 
+![image007](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image007.png) 
 
- ![image008](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image008.png)
+ ![image008](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image008.png)
 
 **for Loops and the range() Function**
 
- ![image009](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image009.png)
+ ![image009](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image009.png)
 
 **The Starting, Stopping, and Stepping Arguments to range()**
 
@@ -159,19 +159,19 @@ Running a for loop to print i with range(5, -1, -1) should print from five down 
 
 **Importing Modules**
 
- ![image010](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image010.png)
+ ![image010](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image010.png)
 
- ![image011](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image011.png)
+ ![image011](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image011.png)
 
 **from import Statements**
 
- ![image012](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image012.png)
+ ![image012](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image012.png)
 
 **Ending a Program Early with sys.exit()**
 
 The last flow control concept to cover is how to terminate the program. This always happens if the program execution reaches the bottom of the instructions. However, you can cause the program to terminate, or exit, by calling the sys.exit() function. Since this function is in the sys module, you have to import sys before your program can use it. Open a new file editor window and enter the following code, saving it as *exitExample.py*:
 
-![image013](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image013.png) 
+![image013](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image013.png) 
 
 **
 
@@ -185,9 +185,9 @@ A *function* is like a mini-program within a program.
 
 A major purpose of functions is to group code that gets executed multiple times.
 
-![image014](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image014.png) 
+![image014](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image014.png) 
 
- ![image015](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image015.png)
+ ![image015](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image015.png)
 
 **def Statements with Parameters**
 
@@ -195,7 +195,7 @@ A major purpose of functions is to group code that gets executed multiple times.
 
 **Return Values and return Statements**
 
- ![image016](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image016.png)
+ ![image016](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image016.png)
 
 Remember, expressions are composed of values and operators. A function call can be used in an expression because it evaluates to its return value.
 
@@ -203,17 +203,17 @@ Remember, expressions are composed of values and operators. A function call can 
 
 In Python there is a value called None, which represents the absence of a value.
 
- ![image017](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image017.png)
+ ![image017](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image017.png)
 
 **Keyword Arguments and print()**
 
 ***\*end=''**
 
- ![image018](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image018.png)
+ ![image018](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image018.png)
 
 ***\*sept=','**
 
-![image019](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image019.png) 
+![image019](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image019.png) 
 
 **Local and Global Scope**
 
@@ -221,7 +221,7 @@ Parameters and variables that are assigned in a called function are said to exis
 
 A local scope is created whenever a function is called.
 
-![image020](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image020.png) 
+![image020](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image020.png) 
 
 The reason Python has different scopes instead of just making everything a global variable is so that when variables are modified by the code in a particular call to a function, the function interacts with the rest of the program only through its parameters and the return value.
 
@@ -239,13 +239,13 @@ The upshot is that local variables in one function are completely separate from 
 
 **Global Variables Can Be Read from a Local Scope**
 
- ![image021](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image021.png)
+ ![image021](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image021.png)
 
 **Local and Global Variables with the Same Name**
 
 **The global Statement**
 
- ![image022](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image022.png)
+ ![image022](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image022.png)
 
 There are four rules to tell whether a variable is in a local scope or global scope:
 
@@ -257,9 +257,9 @@ There are four rules to tell whether a variable is in a local scope or global sc
 
 \4. But if the variable is not used in an assignment statement, it is a global variable.
 
-![image023](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image023.png) 
+![image023](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image023.png) 
 
- ![image024](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image024.png)
+ ![image024](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image024.png)
 
 This error happens because Python sees that there is an assignment statement for eggs in the spam() function ➊ and therefore considers eggs to be local. But because print(eggs) is executed before eggs is assigned anything, the local variable eggs doesn’t exist. Python will *not* fall back to using the global eggs variable ➋.
 
@@ -269,9 +269,9 @@ This error happens because Python sees that there is an assignment statement for
 
 Errors can be handled with try and except statements. 
 
- ![image025](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image025.png)
+ ![image025](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image025.png)
 
-![image026](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/images/pythonotes/image026.png)
+![image026](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image026.png)
 
  
 
