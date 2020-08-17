@@ -273,6 +273,6 @@ Errors can be handled with try and except statements.
 
 ![image026](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image026.png)
 
- 
+ ![image027](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image027.png)
 
  
