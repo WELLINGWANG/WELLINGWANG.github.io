@@ -24,3 +24,5 @@ print(fib(n))
 print(count)
 ```
 
+![b812c8fcc3cec3fd4e91c85e6919d43a86942780](/Users/NINA/Downloads/b812c8fcc3cec3fd4e91c85e6919d43a86942780.jpeg)
+
