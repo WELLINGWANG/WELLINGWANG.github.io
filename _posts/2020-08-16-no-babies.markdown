@@ -5,7 +5,7 @@ date:   2020-08-16 14:56:29 +0800
 categories: Python notes
 ---
 
-## ![image089](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/chaos/koreanBlogger.png)
+## ![koreanBlogger](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/chaos/koreanBlogger.png)
 
 #### <<이 영상은 [여기](https://weibo.com/5668345437/Jb9aRnlvE?type=comment#_rnd1594867115532)>>
 
