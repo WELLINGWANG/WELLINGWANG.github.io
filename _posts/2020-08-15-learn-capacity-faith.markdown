@@ -5,7 +5,7 @@ date:   2020-08-15 09:56:29 +0800
 categories: chicken soup
 ---
 
-### 学习能力具有自举性|just develop a kind of faith in your own learning capacity
+### 学习能力具有自举性|so develop a kind of faith in your own learning capacity
 
 #### 【打湿双脚】
 
