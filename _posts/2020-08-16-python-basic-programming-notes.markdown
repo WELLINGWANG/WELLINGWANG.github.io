@@ -417,11 +417,11 @@ Variables will contain references to list values rather than list values themsel
 
 variables will store the value itself.
 
-![image062](F:\mindi abair\notes for AUTOMATE.files\image061.png)
+![image061](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image061.png)
 
 ***The copy Module’s copy() and deepcopy() Functions**
 
-![image062](F:\mindi abair\notes for AUTOMATE.files\image062.png) 
+![image062](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/pythonotes/image062.png) 
 
 If the list you need to copy contains lists, then use the copy.deepcopy() function instead of copy.copy(). The deepcopy() function will copy these inner lists as well.
 
