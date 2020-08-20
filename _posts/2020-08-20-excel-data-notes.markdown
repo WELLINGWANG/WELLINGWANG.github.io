@@ -5,7 +5,7 @@ date:   2020-08-20 14:56:29 +0800
 categories: Excel notes; Data notes
 ---
 
-## Mastering Data Analysis in Excel by Duke
+## Mastering Data Analysis in Excel by Duke University
 
 **You can find this wonderful course on Coursera [here](https://www.coursera.org/learn/analytics-excel/home).**
 
@@ -27,6 +27,8 @@ Great business analysts have been called the “unicorns” of the business worl
 
 #### i.Basic Excel Vocabulary; Intro to Charting
 
+- **use = to activate the formula**
+
 - **double click the handle to generate the rest of all**
 
 ![image001](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image001.png)
@@ -42,8 +44,16 @@ Great business analysts have been called the “unicorns” of the business worl
 #### ii.Arithmetic in Excel
 ![image004](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image004.png)
 
-#### iii.Functions on Individual Cells
+-  **raw input with apostrophe' **
+
 ![image005](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image005.png)
+
+#### iii.Functions on Individual Cells
+
+Excels have hundreds of built-in functions. 
+
+
+
 
 ### 3.Functions on Arrays
 
