@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes of Mastering Data Analysis in Excel"
+title:  "Notes of Mastering Data Analysis in Excel loading..."
 date:   2020-08-20 14:56:29 +0800
 categories: Excel notes; Data notes
 ---
