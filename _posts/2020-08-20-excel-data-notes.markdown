@@ -52,12 +52,14 @@ Great business analysts have been called the “unicorns” of the business worl
 
 Excels have hundreds of built-in functions. 
 
-
+![image006](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image006.png)
 
 
 ### 3.Functions on Arrays
 
 #### i.Functions on a Set of Numbers
+
+
 
 #### ii.Functions on Ordered Pairs of Data
 
