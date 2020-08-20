@@ -27,20 +27,21 @@ Great business analysts have been called the “unicorns” of the business worl
 
 - double click the handle to generate the rest of all
 
-![image001](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldataotes/image001.png)
+![image001](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image001.png)
 
 - use the $ sign to as a shortcut
 
- ![image002](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldataotes/image002.png)
+ ![image002](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image002.png)
 
 - generate the line chart with scatters in the chart
 
-![image003](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldataotes/image003.png)
+![image003](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image003.png)
 
 #### Arithmetic in Excel
-![image004](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldataotes/image004)
+![image004](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image004.png)
 
 #### Functions on Individual Cells
+![image005](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image005.png)
 
 ### Introduction to Binary Classification
 
