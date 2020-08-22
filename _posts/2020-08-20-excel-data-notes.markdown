@@ -79,7 +79,19 @@ Functions on one column at a time.
 
 #### iii.Sorting Data in Excel
 
+![image012](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image012.png)
+
+And if we look at ascending order, we see that we have a number of months when Duke Energy stock was dramatically off. And in most cases, the S&P 500 Index was also down but far far less. 
+
+So what this tells us perhaps is that when the S&P Index is down a little bit, and **there's perhaps some bad news about Duke Energy stock at all,the market tends to react with much more volatility with regard to Duke Energy stock than it does with the index as a whole.** 
+
+![image013](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image013.png)
+
 #### iv.Introduction to the Solver Plug-in
+
+The most powerful tools that can be used with Excel.
+
+
 
 ### 4.Binary Classification and the Confusion Matrix
 
