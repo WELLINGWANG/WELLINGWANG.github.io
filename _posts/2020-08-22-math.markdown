@@ -32,3 +32,7 @@ categories: math；function；
 
 ![image003](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/math/image003.png)
 
+### 3.均值不等式原理
+
+![image004](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/math/image004.png)
+

@@ -54,14 +54,28 @@ Excels have hundreds of built-in functions.
 
 ![image006](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image006.png)
 
+![image006_1](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image006_1.png)
+
 
 ### 3.Functions on Arrays
 
 #### i.Functions on a Set of Numbers
 
+To calculate the continuously compounded or **log monthly return** by taking the natural log of the ration of the two prices with the more recent price on top.
 
+![image007](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image007.png)
+
+Functions on one column at a time.
+
+![image008](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image008.png)
 
 #### ii.Functions on Ordered Pairs of Data
+
+![image009](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image009.png)
+
+![image010](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image010.png)
+
+![image011](https://raw.githubusercontent.com/WELLINGWANG/WELLINGWANG.github.io/master/images/exceldatanotes/image011.png)
 
 #### iii.Sorting Data in Excel
 
