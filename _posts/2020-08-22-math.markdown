@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "一些数学问题 loading..."
-date:   2020-08-20 14:56:29 +0800
+date:   2020-08-22 14:56:29 +0800
 categories: math；function；
 ---
 
