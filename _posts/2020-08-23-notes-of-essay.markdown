@@ -15,7 +15,7 @@ The person who asks me this question may be coming from another career. Or perha
 
 我想说的是：**除非你准备活到老学到老，不然的话，不要进入这个行业！编程看起来似乎是一个高收入而又稳定的工作。但要做到这一点，唯一的途径是：始终让自己更有价值。**
 
-What I'm trying to say here is that you don't want to go into this business unless you are ready to **commit to lifelong learning. **Sometimes it seems like programming is a well-paying, reliable job -- but the only way you can make sure of this is if **you are always making yourself more valuable.**
+What I'm trying to say here is that you don't want to go into this business unless you are ready to **commit to lifelong learning. **Sometimes it seems like programming is a well-paying, reliable job -- but the only way you can make sure of this is if  **you are always making yourself more valuable.**
 
 ### 2. choose the hard way and that will keep your options open
 
@@ -25,11 +25,11 @@ When the Internet was first booming, all you had to do was spend some time learn
 
 -**Welling**:
 
-<!--1.只有当退潮的时候，我们才能看到谁在裸泳；只有当萧条的时候，才能看到谁在摸鱼。技能、语言、文化都是有高下之分的。-->
+<!1.只有当退潮的时候，我们才能看到谁在裸泳；只有当萧条的时候，才能看到谁在摸鱼。技能、语言、文化都是有高下之分的。>
 
-<!--2.选择更艰难的道路，攻克更艰难的问题，这样就会拥有更多选择权。人生本来就是一条越走越窄的道路。如果总是避重就轻，会越发被动。选择学数理化的可以去搞政治，但是反过来很难。-->
+<!2.选择更艰难的道路，攻克更艰难的问题，这样就会拥有更多选择权。人生本来就是一条越走越窄的道路。如果总是避重就轻，会越发被动。选择学数理化的可以去搞政治，但是反过来很难。>
 
-<!--3.谁动了我的奶酪？如果从不关心奶酪是怎么来的，也不会弄懂是怎么失去的。-->
+<!3.谁动了我的奶酪？如果从不关心奶酪是怎么来的，也不会弄懂是怎么失去的。>
 
 ### 3.interdisciplinary learning
 
@@ -39,21 +39,32 @@ I also think that knowing more than just programming vastly improves your **prob
 
 **Welling**: 
 
-<!--当你有一把锤子的时候，你看所有的问题都是钉子。其实跨学科的学习，就是丰富你思维以及认知的工具包，当你的工具足够多并且组合运用地足够熟练的时候，问题往往会变得简单。同样的，不同的问题用不同的语言处理难度也会大不相同。阅读，不设限地跨领域阅读。-->
+<!当你有一把锤子的时候，你看所有的问题都是钉子。其实跨学科的学习，就是丰富你思维以及认知的工具包，当你的工具足够多并且组合运用地足够熟练的时候，问题往往会变得简单。同样的，不同的问题用不同的语言处理难度也会大不相同。阅读，不设限地跨领域阅读。>
 
 ### 4.features for the ideal job candidates
 
 有一次我组织了一次会议，其中一个议题是：理想的应聘者有哪些特征：
+
 ◇把学习当成生活方式。比如：你应该知道不止一种语言，没有什么比学习一门新语言更能让你开阔眼界了。
+
 ◇知道如何获取知识
+
 ◇Study prior art
+
 ◇善用工具
+
 **◇学会把事情简化**
+
 ◇理解业务
+
 ◇为自己的错误负责。“我就是这样的”是不能接受的托词。能找到自己的失误。
+
 ◇成为一个领导者，善于沟通和激励。
+
 ◇搞清楚你在为谁服务
+
 ◇**没有绝对正确的答案（更好的方法总是存在的）。**展示并讨论你的代码，不要带着感情因素——你的代码并不等于你本人。
+
 ◇**明白完美是渐进的**
 
 In one session a conference that I organized, one of the topics was to come up with a list of features for the ideal job candidate:
@@ -72,7 +83,7 @@ In one session a conference that I organized, one of the topics was to come up w
 
 **Welling**: 
 
-<!--完美是渐进的。看似简单的道理。乔布斯这个偏执狂在开发苹果产品时，也深刻运用了这个道理，而这是他从他的偶像披头士身上学到的。他们的音乐唱片，从灵感获取到demo到十几个版本的改进，直到最后红遍世界的成品，这中间有着质的飞跃。这些伟大而完美的作品，草稿时期基本都平庸无奇甚至是一坨狗屎。这又回到了信心的问题。你要对认知学习的规律以及事物发展的客观规律有信心。-->
+<!-完美是渐进的。看似简单的道理。乔布斯这个偏执狂在开发苹果产品时，也深刻运用了这个道理，而这是他从他的偶像披头士身上学到的。他们的音乐唱片，从灵感获取到demo到十几个版本的改进，直到最后红遍世界的成品，这中间有着质的飞跃。这些伟大而完美的作品，草稿时期基本都平庸无奇甚至是一坨狗屎。这又回到了信心的问题。你要对认知学习的规律以及事物发展的客观规律有信心。>
 
 ### 4.adventure&get out of your comfort zone
 
@@ -86,8 +97,8 @@ I'll fend these off by repeating here: I know it seems like all the ones and zer
 
 **Welling**: 
 
-<!--1.你坐上过山车，不是想要体验smooth drive。你要的是兴奋、害怕、尖叫和adrenaline rush，然后下来，你觉得好极了。That is the fun of life。--Hrithik Roshan-->
+<!-1.你坐上过山车，不是想要体验smooth drive。你要的是兴奋、害怕、尖叫和adrenaline rush，然后下来，你觉得好极了。That is the fun of life。--Hrithik Roshan>
 
-<!--2.有机体具有反脆弱性-antifragile。所以去冒险，去经历考验。凡是不能杀死你的，都会使你变得更强大。-->
+<!2.有机体具有反脆弱性-antifragile。所以去冒险，去经历考验。凡是不能杀死你的，都会使你变得更强大。>
 
-<!--3.我们所能做的一切，就是尽可能快的犯错。-->
+<!3.我们所能做的一切，就是尽可能快的犯错。>

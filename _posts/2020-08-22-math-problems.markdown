@@ -2,7 +2,7 @@
 layout: post
 title:  "一些数学问题 loading..."
 date:   2020-08-22 14:56:29 +0800
-categories: math；function
+categories: math
 ---
 
 ### 1.收敛【convergence】
