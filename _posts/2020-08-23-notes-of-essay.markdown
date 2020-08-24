@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Bruce Eckel:编程生涯——笔记"
+title:  "Notes of<Bruce Eckel:编程生涯>"
 date:   2020-08-23 14:56:29 +0800
 categories: computing notes
 ---
 
-### A career in computing
+## A career in computing
 
 ### 1.never stop learning&making yourself more valuable
 
