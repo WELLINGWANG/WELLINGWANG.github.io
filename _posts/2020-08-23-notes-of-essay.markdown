@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes of<Bruce Eckel:编程生涯>"
+title:  "Notes of Bruce Eckel's 编程生涯"
 date:   2020-08-23 14:56:29 +0800
 categories: computing notes
 ---

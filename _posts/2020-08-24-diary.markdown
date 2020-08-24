@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "随笔：从爱好洋文到机器语言"
-date:   2020-08-23 21:56:29 +0800
+date:   2020-08-24 21:56:29 +0800
 categories: computing notes
 ---
 
